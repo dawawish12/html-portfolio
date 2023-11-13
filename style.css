@@ -1,3 +1,7 @@
-* {
+.red-text {
     color: orange;
+}
+.note {
+
+font-size: 20px;
 }
